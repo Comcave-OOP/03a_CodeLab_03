@@ -15,7 +15,7 @@ public class App {
 
         ausgabe(ma2);
         ma2.doYourWork();
-        
+
         output("-------------");
 
         ausgabe(ma3);
@@ -23,7 +23,7 @@ public class App {
     }
 
     private static void ausgabe(Mitarbeiter ma){
-        output("Ich bin " + ma.getFirstName() + " " + ma.getName() + ", ID: " + ma.workID);
+        output("Ich bin " + ma.getFirstName() + " " + ma.getName() + ", ID: " + ma.workID + ", Abteilung: " + ma.department);
         output("Meine Aufgaben: " + ma.role);
         ma.startsWork();
         ma.hasLunch();
