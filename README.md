@@ -19,7 +19,7 @@ Erstellen Sie jeweils eine **spezifische** Methode für einen Mitarbeiter in
 2. Produktion (Manufacturing)
 3. Werbung (Advertising)
 
-und aktivieren Sie dieses Verhalten über eine geeignete Struktur (zB. switch() )und eine Parameterübergabe in einer öffentlichen Methode doYourWork( String flag ).Legen Sie in der Klasse Firma jeweils 3 verschiedene Mitarbeiter an.
+und aktivieren Sie dieses Verhalten
 
 
 * hier können Sie  Textausgaben machen. zB. 
